@@ -1,0 +1,12 @@
+2021 -07-12  16:00:36  [Car #27] DEBUG entity.Parking - Car #27 pull LOT #0 PARK_ID #1
+2021 -07-12  16:00:36  [Car #27] INFO  entity.Car - Car #27 took lot №0. Parking №1
+2021 -07-12  16:00:36  [Car #27] DEBUG entity.ParkingLot - LOT #0 using by Car #27
+2021 -07-12  16:00:36  [Car #23] INFO  entity.Car - Car #23 : lot №0 is released. Parking №2
+2021 -07-12  16:00:36  [Car #17] INFO  entity.Car - Car #17 : lot №1 is released. Parking №0
+2021 -07-12  16:00:36  [Car #17] DEBUG entity.Car - Car #17 is terminated
+2021 -07-12  16:00:36  [Car #23] DEBUG entity.Car - Car #23 is terminated
+2021 -07-12  16:00:36  [Car #18] INFO  entity.Car - Car #18 : lot №2 is released. Parking №0
+2021 -07-12  16:00:36  [Car #18] DEBUG entity.Car - Car #18 is terminated
+2021 -07-12  16:00:37  [Car #22] INFO  entity.Car - Car #22 : lot №1 is released. Parking №1
+2021 -07-12  16:00:37  [Car #22] DEBUG entity.Car - Car #22 is terminated
+2021 -07-12  16:00:37  [Car #26] DEBUG entity.Parking - Car #26 pull from park #1

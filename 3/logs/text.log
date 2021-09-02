@@ -1,0 +1,97 @@
+2021 -07-12  16:00:36  [main] DEBUG entity.Car - Car #17 is created
+2021 -07-12  16:00:36  [main] DEBUG entity.Car - Car #18 is created
+2021 -07-12  16:00:36  [Car #17] DEBUG entity.Car - Try of getting lot. Car #17
+2021 -07-12  16:00:36  [main] DEBUG entity.Car - Car #19 is created
+2021 -07-12  16:00:36  [Car #17] DEBUG pool.ParkingBase - Car #17 tried to getLot
+2021 -07-12  16:00:36  [Car #18] DEBUG entity.Car - Try of getting lot. Car #18
+2021 -07-12  16:00:36  [main] DEBUG entity.Car - Car #20 is created
+2021 -07-12  16:00:36  [Car #19] DEBUG entity.Car - Try of getting lot. Car #19
+2021 -07-12  16:00:36  [Car #18] DEBUG pool.ParkingBase - Car #18 tried to getLot
+2021 -07-12  16:00:36  [Car #19] DEBUG pool.ParkingBase - Car #19 tried to getLot
+2021 -07-12  16:00:36  [main] DEBUG entity.Car - Car #21 is created
+2021 -07-12  16:00:36  [Car #20] DEBUG entity.Car - Try of getting lot. Car #20
+2021 -07-12  16:00:36  [Car #20] DEBUG pool.ParkingBase - Car #20 tried to getLot
+2021 -07-12  16:00:36  [main] DEBUG entity.Car - Car #22 is created
+2021 -07-12  16:00:36  [main] DEBUG entity.Car - Car #23 is created
+2021 -07-12  16:00:36  [Car #21] DEBUG entity.Car - Try of getting lot. Car #21
+2021 -07-12  16:00:36  [Car #22] DEBUG entity.Car - Try of getting lot. Car #22
+2021 -07-12  16:00:36  [Car #17] DEBUG entity.Parking - Car #17 pull from park #0
+2021 -07-12  16:00:36  [Car #18] DEBUG entity.Parking - Car #18 pull from park #0
+2021 -07-12  16:00:36  [Car #19] DEBUG entity.Parking - Car #19 pull from park #0
+2021 -07-12  16:00:36  [Car #22] DEBUG pool.ParkingBase - Car #22 tried to getLot
+2021 -07-12  16:00:36  [Car #21] DEBUG pool.ParkingBase - Car #21 tried to getLot
+2021 -07-12  16:00:36  [main] DEBUG entity.Car - Car #25 is created
+2021 -07-12  16:00:36  [main] DEBUG entity.Car - Car #26 is created
+2021 -07-12  16:00:36  [Car #23] DEBUG entity.Car - Try of getting lot. Car #23
+2021 -07-12  16:00:36  [main] DEBUG entity.Car - Car #27 is created
+2021 -07-12  16:00:36  [Car #23] DEBUG pool.ParkingBase - Car #23 tried to getLot
+2021 -07-12  16:00:36  [Car #18] DEBUG entity.Parking - Car #18 pull LOT #2 PARK_ID #0
+2021 -07-12  16:00:36  [Car #19] DEBUG entity.Parking - Car #19 pull LOT #0 PARK_ID #0
+2021 -07-12  16:00:36  [Car #17] DEBUG entity.Parking - Car #17 pull LOT #1 PARK_ID #0
+2021 -07-12  16:00:36  [Car #25] DEBUG entity.Car - Try of getting lot. Car #25
+2021 -07-12  16:00:36  [Car #26] DEBUG entity.Car - Try of getting lot. Car #26
+2021 -07-12  16:00:36  [Car #27] DEBUG entity.Car - Try of getting lot. Car #27
+2021 -07-12  16:00:36  [Car #17] INFO  entity.Car - Car #17 took lot №1. Parking №0
+2021 -07-12  16:00:36  [Car #18] INFO  entity.Car - Car #18 took lot №2. Parking №0
+2021 -07-12  16:00:36  [Car #19] INFO  entity.Car - Car #19 took lot №0. Parking №0
+2021 -07-12  16:00:36  [Car #25] DEBUG pool.ParkingBase - Car #25 tried to getLot
+2021 -07-12  16:00:36  [Car #27] DEBUG pool.ParkingBase - Car #27 tried to getLot
+2021 -07-12  16:00:36  [Car #19] DEBUG entity.ParkingLot - LOT #0 using by Car #19
+2021 -07-12  16:00:36  [Car #18] DEBUG entity.ParkingLot - LOT #2 using by Car #18
+2021 -07-12  16:00:36  [Car #17] DEBUG entity.ParkingLot - LOT #1 using by Car #17
+2021 -07-12  16:00:36  [Car #20] INFO  pool.ParkingBase - Car #20 -> timeout. Going to another parking.
+2021 -07-12  16:00:36  [Car #21] INFO  pool.ParkingBase - Car #21 -> timeout. Going to another parking.
+2021 -07-12  16:00:36  [Car #22] INFO  pool.ParkingBase - Car #22 -> timeout. Going to another parking.
+2021 -07-12  16:00:36  [Car #23] INFO  pool.ParkingBase - Car #23 -> timeout. Going to another parking.
+2021 -07-12  16:00:36  [Car #26] DEBUG pool.ParkingBase - Car #26 tried to getLot
+2021 -07-12  16:00:36  [Car #22] DEBUG entity.Parking - Car #22 pull from park #1
+2021 -07-12  16:00:36  [Car #21] DEBUG entity.Parking - Car #21 pull from park #1
+2021 -07-12  16:00:36  [Car #22] DEBUG entity.Parking - Car #22 pull LOT #1 PARK_ID #1
+2021 -07-12  16:00:36  [Car #21] DEBUG entity.Parking - Car #21 pull LOT #0 PARK_ID #1
+2021 -07-12  16:00:36  [Car #22] INFO  entity.Car - Car #22 took lot №1. Parking №1
+2021 -07-12  16:00:36  [Car #21] INFO  entity.Car - Car #21 took lot №0. Parking №1
+2021 -07-12  16:00:36  [Car #22] DEBUG entity.ParkingLot - LOT #1 using by Car #22
+2021 -07-12  16:00:36  [Car #21] DEBUG entity.ParkingLot - LOT #0 using by Car #21
+2021 -07-12  16:00:36  [Car #21] INFO  entity.Car - Car #21 : lot №0 is released. Parking №1
+2021 -07-12  16:00:36  [Car #20] DEBUG entity.Parking - Car #20 pull from park #1
+2021 -07-12  16:00:36  [Car #21] DEBUG entity.Car - Car #21 is terminated
+2021 -07-12  16:00:36  [Car #20] DEBUG entity.Parking - Car #20 pull LOT #0 PARK_ID #1
+2021 -07-12  16:00:36  [Car #20] INFO  entity.Car - Car #20 took lot №0. Parking №1
+2021 -07-12  16:00:36  [Car #20] DEBUG entity.ParkingLot - LOT #0 using by Car #20
+2021 -07-12  16:00:36  [Car #19] INFO  entity.Car - Car #19 : lot №0 is released. Parking №0
+2021 -07-12  16:00:36  [Car #19] DEBUG entity.Car - Car #19 is terminated
+2021 -07-12  16:00:36  [Car #25] DEBUG entity.Parking - Car #25 pull from park #0
+2021 -07-12  16:00:36  [Car #25] DEBUG entity.Parking - Car #25 pull LOT #0 PARK_ID #0
+2021 -07-12  16:00:36  [Car #25] INFO  entity.Car - Car #25 took lot №0. Parking №0
+2021 -07-12  16:00:36  [Car #25] DEBUG entity.ParkingLot - LOT #0 using by Car #25
+2021 -07-12  16:00:36  [Car #27] INFO  pool.ParkingBase - Car #27 -> timeout. Going to another parking.
+2021 -07-12  16:00:36  [Car #26] INFO  pool.ParkingBase - Car #26 -> timeout. Going to another parking.
+2021 -07-12  16:00:36  [Car #23] INFO  pool.ParkingBase - Car #23 -> timeout. Going to another parking.
+2021 -07-12  16:00:36  [Car #23] DEBUG entity.Parking - Car #23 pull from park #2
+2021 -07-12  16:00:36  [Car #23] DEBUG entity.Parking - Car #23 pull LOT #0 PARK_ID #2
+2021 -07-12  16:00:36  [Car #23] INFO  entity.Car - Car #23 took lot №0. Parking №2
+2021 -07-12  16:00:36  [Car #23] DEBUG entity.ParkingLot - LOT #0 using by Car #23
+2021 -07-12  16:00:36  [Car #20] INFO  entity.Car - Car #20 : lot №0 is released. Parking №1
+2021 -07-12  16:00:36  [Car #20] DEBUG entity.Car - Car #20 is terminated
+2021 -07-12  16:00:36  [Car #27] DEBUG entity.Parking - Car #27 pull from park #1
+2021 -07-12  16:00:36  [Car #27] DEBUG entity.Parking - Car #27 pull LOT #0 PARK_ID #1
+2021 -07-12  16:00:36  [Car #27] INFO  entity.Car - Car #27 took lot №0. Parking №1
+2021 -07-12  16:00:36  [Car #27] DEBUG entity.ParkingLot - LOT #0 using by Car #27
+2021 -07-12  16:00:36  [Car #23] INFO  entity.Car - Car #23 : lot №0 is released. Parking №2
+2021 -07-12  16:00:36  [Car #17] INFO  entity.Car - Car #17 : lot №1 is released. Parking №0
+2021 -07-12  16:00:36  [Car #17] DEBUG entity.Car - Car #17 is terminated
+2021 -07-12  16:00:36  [Car #23] DEBUG entity.Car - Car #23 is terminated
+2021 -07-12  16:00:36  [Car #18] INFO  entity.Car - Car #18 : lot №2 is released. Parking №0
+2021 -07-12  16:00:36  [Car #18] DEBUG entity.Car - Car #18 is terminated
+2021 -07-12  16:00:37  [Car #22] INFO  entity.Car - Car #22 : lot №1 is released. Parking №1
+2021 -07-12  16:00:37  [Car #22] DEBUG entity.Car - Car #22 is terminated
+2021 -07-12  16:00:37  [Car #26] DEBUG entity.Parking - Car #26 pull from park #1
+2021 -07-12  16:00:37  [Car #26] DEBUG entity.Parking - Car #26 pull LOT #1 PARK_ID #1
+2021 -07-12  16:00:37  [Car #26] INFO  entity.Car - Car #26 took lot №1. Parking №1
+2021 -07-12  16:00:37  [Car #26] DEBUG entity.ParkingLot - LOT #1 using by Car #26
+2021 -07-12  16:00:37  [Car #25] INFO  entity.Car - Car #25 : lot №0 is released. Parking №0
+2021 -07-12  16:00:37  [Car #25] DEBUG entity.Car - Car #25 is terminated
+2021 -07-12  16:00:37  [Car #26] INFO  entity.Car - Car #26 : lot №1 is released. Parking №1
+2021 -07-12  16:00:37  [Car #26] DEBUG entity.Car - Car #26 is terminated
+2021 -07-12  16:00:37  [Car #27] INFO  entity.Car - Car #27 : lot №0 is released. Parking №1
+2021 -07-12  16:00:37  [Car #27] DEBUG entity.Car - Car #27 is terminated

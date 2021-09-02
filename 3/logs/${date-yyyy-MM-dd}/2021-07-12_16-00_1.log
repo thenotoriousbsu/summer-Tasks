@@ -1,0 +1,12 @@
+2021 -07-12  16:00:36  [Car #25] INFO  entity.Car - Car #25 took lot №0. Parking №0
+2021 -07-12  16:00:36  [Car #25] DEBUG entity.ParkingLot - LOT #0 using by Car #25
+2021 -07-12  16:00:36  [Car #27] INFO  pool.ParkingBase - Car #27 -> timeout. Going to another parking.
+2021 -07-12  16:00:36  [Car #26] INFO  pool.ParkingBase - Car #26 -> timeout. Going to another parking.
+2021 -07-12  16:00:36  [Car #23] INFO  pool.ParkingBase - Car #23 -> timeout. Going to another parking.
+2021 -07-12  16:00:36  [Car #23] DEBUG entity.Parking - Car #23 pull from park #2
+2021 -07-12  16:00:36  [Car #23] DEBUG entity.Parking - Car #23 pull LOT #0 PARK_ID #2
+2021 -07-12  16:00:36  [Car #23] INFO  entity.Car - Car #23 took lot №0. Parking №2
+2021 -07-12  16:00:36  [Car #23] DEBUG entity.ParkingLot - LOT #0 using by Car #23
+2021 -07-12  16:00:36  [Car #20] INFO  entity.Car - Car #20 : lot №0 is released. Parking №1
+2021 -07-12  16:00:36  [Car #20] DEBUG entity.Car - Car #20 is terminated
+2021 -07-12  16:00:36  [Car #27] DEBUG entity.Parking - Car #27 pull from park #1
